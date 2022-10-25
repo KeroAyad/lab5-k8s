@@ -1,6 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <body lang="en-US" text="#000000" link="#000080" vlink="#800000" dir="ltr">
+  <h3>Task</h3>
   <p>
     1- Create a namespace haproxy-controller-devops.</br>
 2- Create a ServiceAccount haproxy-service-account-devops under the same namespace.</br>
@@ -51,6 +52,8 @@ be TCP, targetPort should be 443 and nodePort should be 32567. The third port na
 should be stat, its port should be 1024, protocol should be TCP, targetPort should be 1024
 and nodePort should be 32678.</br>
   </P>  
+  
+  <h3>Result</h3>
   
 <p class="western" style="margin-bottom: 0in; line-height: 100%">
 <img src="lab5%20k8s_html_f9fc67aeaffff783.png" name="Image1" align="left" width="796" height="285" border="0"/>
